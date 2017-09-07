@@ -1,0 +1,8 @@
+prefix=/home/hao/Documents/ai_world/ros/devel
+
+Name: pose_web
+Description: Description of pose_web
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hao/Documents/ai_world/ros/devel/lib 
+Requires: 

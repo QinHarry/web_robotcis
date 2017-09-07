@@ -1,0 +1,2 @@
+pose_web
+-DCATKIN_DEVEL_PREFIX=/home/hao/Documents/ai_world/ros/devel -DCMAKE_INSTALL_PREFIX=/home/hao/Documents/ai_world/ros/install -G Unix Makefiles
